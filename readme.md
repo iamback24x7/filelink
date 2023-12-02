@@ -82,7 +82,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 apt install git
 apt install python3-pip
 git clone https://github.com/iamback24x7/filelink
-cd Filestreambot-pro
+cd filelink
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
